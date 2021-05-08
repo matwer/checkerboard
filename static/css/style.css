@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+tr, td {
+    height: 50px;
+    width: 50px;
+}
+
+.color1 {
+    background-color:yellowgreen;
+}
+
+.color2 {
+    background-color: black;
+}
